@@ -16,5 +16,6 @@ The form elements of the HTML registration page allow users to input their data 
 
 
 ## Screenshots
+![121212121](https://user-images.githubusercontent.com/97453992/220083097-3e38ae58-3b8c-4f03-965c-e77561dd73f8.png)
 
 
